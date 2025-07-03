@@ -23,7 +23,7 @@ Learning:     GitHub Projects • Advanced Git Workflows
 
 ---
 
-##📦 Projects & Features
+## 📦 Projects & Features
 -🧪 Website Prelaunch Checklist – Interactive JS checklist app with tooltips and drag-and-drop features.
 
 -💡 VCC Course Projects – Hands-on HTML/CSS projects from my Mobile & Web App Dev program.
@@ -32,7 +32,7 @@ Learning:     GitHub Projects • Advanced Git Workflows
 
 ---
 
-##🧠 Currently Learning
+## 🧠 Currently Learning
 -🔥 Advanced Git Workflows (merge conflicts, pull requests)
 
 -⚛️ React and Component-Based Design
@@ -41,7 +41,7 @@ Learning:     GitHub Projects • Advanced Git Workflows
 
 ---
 
-##📣 Let's Connect!
+## 📣 Let's Connect!
 -🌐 GitHub: melakunet
 -💼 LinkedIn: (https://www.linkedin.com/in/ademe-etefworkie-melaku-3b286b2b5/)
 
