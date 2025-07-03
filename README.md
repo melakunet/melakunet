@@ -44,4 +44,4 @@ Learning:     GitHub Projects • Advanced Git Workflows
 ---
 
 master
-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=melakunet&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=melakunet&theme=tokyonight" /> </p> ```
+- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=melakunet&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> 
