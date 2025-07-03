@@ -7,10 +7,10 @@
 
 ## 💼 About Me
 
-- 📚 Studying Mobile & Web App Development at Trios College
-- 🌍 Based in Toronto
-- 🎯 Passionate about UI/UX, HTML, JavaScript, and building clean apps
-- 🤝 Enjoy teaching and collaborating on tech projects
+### - 📚 Studying Mobile & Web App Development at Trios College
+### - 🌍 Based in Toronto
+### - 🎯 Passionate about UI/UX, HTML, JavaScript, and building clean apps
+### - 🤝 Enjoy teaching and collaborating on tech projects
 
 ---
 
@@ -23,7 +23,7 @@ Learning:     GitHub Projects • Advanced Git Workflows
 
 ---
 
-## 📦 Projects & Features
+## 🛠️ Tools & Skills
 -🧪 Website Prelaunch Checklist – Interactive JS checklist app with tooltips and drag-and-drop features.
 
 -💡 VCC Course Projects – Hands-on HTML/CSS projects from my Mobile & Web App Dev program.
