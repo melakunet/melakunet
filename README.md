@@ -5,47 +5,33 @@
 
 ---
 
-## 💼 About Me
+md
+# 🧠 About Me
 
-### - 📚 Studying Mobile & Web App Development at Trios College
-### - 🌍 Based in Toronto
-### - 🎯 Passionate about UI/UX, HTML, JavaScript, and building clean apps
-### - 🤝 Enjoy teaching and collaborating on tech projects
+- 📘 Studying Mobile & Web App Development at Trios College
+- 🌍 Based in Toronto
+- 💡 Passionate about UI/UX, HTML, JavaScript, and building clean apps
+- 🤝 Enjoy teaching and collaborating on tech projects
 
----
+# 🛠️ Tools & Skills
 
-## 🛠️ Tools & Skills
+**Languages:**  HTML • Adobe XD  
+**Tools:**      Git • GitHub • VS Code  
+**Learning:**   GitHub Projects • Advanced Git Workflows
 
-```bash
-Languages:   HTML . adobe xd
-Tools:       Git • GitHub • VS Code
-Learning:     GitHub Projects • Advanced Git Workflows
+# 📦 Projects & Features
 
----
+- 🌱 Website Prelaunch Checklist – Interactive JS checklist app with tooltips and drag-and-drop features  
+- 💡 VCC Course Projects – Hands-on HTML/CSS projects  
+- 🧪 Git Practice – Advanced Git workflow demos and experiments
 
-## 🛠️ Tools & Skills
--🧪 Website Prelaunch Checklist – Interactive JS checklist app with tooltips and drag-and-drop features.
+# 🧠 Currently Learning
 
--💡 VCC Course Projects – Hands-on HTML/CSS projects from my Mobile & Web App Dev program.
+- 🔥 Advanced Git Workflows (merge conflicts, pull requests)  
+- 🧩 React and Component-Based Design  
+- 🖋️ UI/UX Prototyping and Accessibility
 
--🔧 Git Practice – Advanced Git workflow demos and experiments.
+# 📣 Let's Connect!
 
----
-
-## 🧠 Currently Learning
--🔥 Advanced Git Workflows (merge conflicts, pull requests)
-
--⚛️ React and Component-Based Design
-
--🖌️ UI/UX Prototyping and Accessibility
-
----
-
-## 📣 Let's Connect!
--🌐 GitHub: melakunet
--💼 LinkedIn: (https://www.linkedin.com/in/ademe-etefworkie-melaku-3b286b2b5/)
-
----
-
-master
-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=melakunet&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=melakunet&theme=tokyonight" /> </p> ```
+- 🌐 GitHub: **melakunet**  
+- 🧳 LinkedIn: [etefworkie](https://www.linkedin.com/in/ademe-etefworkie-melaku-3b286b2b5/)
