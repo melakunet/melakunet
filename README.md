@@ -44,7 +44,7 @@
 
 # 📣 Let's Connect!
 
-- 🌐 GitHub: **melakunet**  
+- 🌐 GitHub: [**melakunet**] (https://github.com/melakunet)  
 - 🧳 LinkedIn: [etefworkie](https://www.linkedin.com/in/ademe-etefworkie-melaku-3b286b2b5/)
 
 master
