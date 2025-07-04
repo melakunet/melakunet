@@ -35,3 +35,5 @@ md
 
 - 🌐 GitHub: - 🌐 GitHub: [melakunet](https://github.com/melakunet) 
 - 🧳 LinkedIn: [etefworkie](https://www.linkedin.com/in/ademe-etefworkie-melaku-3b286b2b5/)
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=melakunet&theme=tokyonight&hide_border=true)
